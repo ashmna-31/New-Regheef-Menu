@@ -1,0 +1,7 @@
+1. Open the New-Regheef-Menu repository on GitHub.
+2. Delete any empty or incorrect index.html file.
+3. Click Add file > Upload files.
+4. Upload index.html, CNAME, and .nojekyll from this folder.
+5. Commit directly to the main branch.
+6. In Settings > Pages, select main and /(root).
+7. Wait for the Pages deployment in the Actions tab to finish.
